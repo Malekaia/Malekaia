@@ -1,6 +1,6 @@
 👋 Hi, I’m [Malekai](@Malekaia).
 
-👀 Currently working on moving all of my projects and works under one name / account.
+👀 Currently working on a functional Rust web framework and an experimental Markdown parser that uses Regex instead of a Lexer/Parser.
 
 🌱 Learning [Rust](https://www.rust-lang.org/) and [Carbon](https://github.com/carbon-language/carbon-lang#getting-started).
 
