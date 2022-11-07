@@ -1,6 +1,6 @@
 👋 Hi, I’m [Malekai](@Malekaia).
 
-👀 Currently working on a functional Rust web framework & an experimental [MD](https://en.wikipedia.org/wiki/Markdown) parser using Regex instead of a Lexer/Parser.
+👀 Currently working on [an experimental Markdown parser written in Rust]([https://en.wikipedia.org/wiki/Markdown](https://github.com/Malekaia/Marcus)) and a [a framework for building static sites](https://github.com/Malekaia/Antwerp).
 
 🌱 Learning [Rust](https://www.rust-lang.org/) and [Carbon](https://github.com/carbon-language/carbon-lang#getting-started).
 
