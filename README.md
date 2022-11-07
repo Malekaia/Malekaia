@@ -6,4 +6,4 @@
 
 🎯 Experimenting with [Carbon](https://github.com/carbon-language/carbon-lang#getting-started).
 
-📫 Send me a message on (Twitter)[https://twitter.com/Melekaia] or [Reddit](https://www.reddit.com/user/Malekaia).
+📫 Send me a message on [Twitter](https://twitter.com/Melekaia) or [Reddit](https://www.reddit.com/user/Malekaia).
