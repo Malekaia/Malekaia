@@ -6,4 +6,4 @@
 
 🎯 Experimenting with [Carbon](https://github.com/carbon-language/carbon-lang#getting-started).
 
-📫 [Contact me](https://malekai.co.uk/about/#contact)
+📫 [Contact me](https://malekai.co.uk/about/#contact).
